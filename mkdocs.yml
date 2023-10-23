@@ -1,0 +1,80 @@
+site_name: eventinhostech
+repo_name: vilmarap/redesigned-carnival
+repo_url: https://github.com/vilmarap/redesigned-carnival
+
+theme:
+  name: material
+  language: pt
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle: 
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/git
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  features:
+  - content.tabs.link
+  - navigation.sections
+
+markdown_extensions:
+  # - pymdownx.emoji
+  # - pymdownx.tasklist
+  # - pymdownx.superfences
+  # - admonition
+  # - pymdownx.tabbed:
+  #     alternate_style: true
+  # - md_in_html
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  
+nav:
+  - Home: index.md
+  - Agenda:
+    - Programacao2023: 
+      - Novembro: 2023/novembro2023.md
+      - Dezembro: 2023/dezembro2023.md
+    - Programacao2024: 
+      - Janeiro: 2023/janeiro2024.md
+

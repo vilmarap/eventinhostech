@@ -1,0 +1,7 @@
+## Agenda de Novembro 2023
+
+| Evento               | Link                                                | Data e Local
+| ----------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Microsoft: Azure Fundamentals AZ-900       | [Mais informações](https://www.microsoft.com/pt-br/events-hub/brazil/1890-microsoft-azure-virtual-training-day-azure-fundamentals-az-900/) | 01-02 de Novembro / Online | 
+| Microsoft: Devops With Github       | [Mais informações](https://www.microsoft.com/pt-br/events-hub/brazil/1894-microsoft-azure-virtual-training-day-devops-with-github/) | 08-09 de Novembro / Online |
+| Microsoft: Security Compliance and Identity Fundamentals SC-900       | [Mais informações](https://www.microsoft.com/pt-br/events-hub/brazil/1896-microsoft-security-virtual-training-day-security-compliance-and-identity-fundamentals-sc-900/) | 09-10 de Novembro / Online | 
