@@ -71,10 +71,10 @@ markdown_extensions:
   
 nav:
   - Home: index.md
-  - Agenda:
+  - Docs:
     - Programacao2023: 
-      - Novembro: 2023/novembro2023.md
-      - Dezembro: 2023/dezembro2023.md
+      - Novembro: programacao2023/novembro2023.md
+      - Dezembro: programacao2023/dezembro2023.md
     - Programacao2024: 
-      - Janeiro: 2023/janeiro2024.md
+      - Janeiro: programacao2024/janeiro2024.md
 
