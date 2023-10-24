@@ -16,8 +16,6 @@ theme:
         name: Switch to light mode
   icon:
     repo: fontawesome/brands/git
-  logo: img/logo.png
-  favicon: img/favicon.ico
   features:
   - content.tabs.link
   - navigation.sections

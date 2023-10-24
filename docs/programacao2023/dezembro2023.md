@@ -1,6 +1,4 @@
-## Agenda de Dezembro 2023
-
-| Evento               | Link                                                | Data e Local
+| **Evento&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**               | **Link**                                                | **Data e Local**
 | ----------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
 | NIC: Novos padrões, tecnologias e desafios na Internet       | [Mais informações](https://youtu.be/heeqxiZAMpQ) | 15 de Dezembro / Online | 
 | NIC: 13ª Semana de Infraestrutura da Internet no Brasil       | [Mais informações](https://nic.br/semanainfrabr/) |  4 a 8 de Dezembro / Presencial / Centro de Convenções Rebouças (Av. Rebouças, 600 - Pinheiros) São Paulo - SP | 
