@@ -1,0 +1,9 @@
+| **Evento&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**               | **Link**                                                | **Data e Local**
+| ----------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | 
+| Rota Tech 2030 - Amostra Tecnológica do programa Rota 2030       | [Mais informações](https://www.sympla.com.br/evento/rota-tech-2030-amostra-tecnologica-do-programa-rota-2030/2110675) | 25 de Outubro / Presencial / IPT - Instituto de Pesquisas Tecnológicas, Avenida Professor Almeida Prado, 532, Prédio 50, Butantã, São Paulo - SP | 
+| Workshop sobre a Convergência da I.A. com a Web3    | [Mais informações](https://www.sympla.com.br/evento/workshop-sobre-a-convergencia-da-i-a-com-a-web3/2220586) | 27 de Outubro / Presencial /WeBelieve Hub e Coworking, Vila Velha - ES  |
+| 229º HAPPY HOUR PMI SÃO PAULO       | [Mais informações](https://www.sympla.com.br/evento/229-happy-hour-pmi-sao-paulo/2211650) | 27 de Outubro / Presencial / Churrascaria Nativas Grill Vila Mariana, Rua Pedro de Toledo, 1361, Vila Clementino, São Paulo - SP | 
+| Conferência Tecnologia e Sociedade: Tecnologia para Quem?       | [Mais informações](https://www.sympla.com.br/evento/conferencia-tecnologia-e-sociedade-tecnologia-para-quem/2129140) | 28 de Outubro / Presencial / Sindpd - Avenida Angélica, 35 Santa Cecilia, São Paulo -  SP | 
+| Data Saturday    | [Mais informações](https://www.sympla.com.br/evento/data-saturday-1065-vitoria-2023/2172362?referrer=lnkd.in) | 28 de Outubro / Presencial /UniSales - Centro Universitário Salesiano, Vitória - ES  |
+| Inteligência Artificial (IA/AI): método para papers de Ciência/Publicação   | [Mais informações](https://www.sympla.com.br/evento/inteligencia-artificial-ia-ai-metodo-para-papers-de-ciencia-publicacao/2170832) | 28 de Outubro / Presencial / Auditório Manoel Vereza, Ufes, Vitória - ES  |
+

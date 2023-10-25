@@ -1,4 +1,9 @@
 | **Evento&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**               | **Link**                                                | **Data e Local**
 | ----------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
-| KCD Brasil, São Paulo 2024       | [Mais informações](https://community.cncf.io/kcd-brasil/) | 26 de janeiro / Online | 
-| KCD Brasil, São Paulo 2024       | [Mais informações](https://community.cncf.io/kcd-brasil/) | 27 de janeiro / Presencial / Natura, NASP: Av. Alexandre Colares, 1188 - Parque Anhanguera, São Paulo - SP, 05106-000 | 
+| DPOday 2024       | [Mais informações](https://www.sympla.com.br/evento/dpoday-2024/2170793) | 23 de janeiro / Presencial / Cubo Itaú - Alameda Vicente Pinzon, 54 Vila Olímpia, São Paulo - SP | 
+| KCD Brasil       | [Mais informações](https://community.cncf.io/kcd-brasil/) | 26 de janeiro / Online | 
+| KCD Brasil       | [Mais informações](https://community.cncf.io/kcd-brasil/) | 27 de janeiro / Presencial / Natura, NASP: Av. Alexandre Colares, 1188, Parque Anhanguera, São Paulo - SP |
+
+
+
+
