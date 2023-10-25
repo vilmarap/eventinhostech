@@ -23,9 +23,11 @@ theme:
 nav:
   - Home: index.md
   - Agenda:
-    - Programacao de 2023: 
+    - Programação de 2023: 
+      - Outubro: programacao2023/outubro2023.md
       - Novembro: programacao2023/novembro2023.md
       - Dezembro: programacao2023/dezembro2023.md
     - Programação de 2024: 
       - Janeiro: programacao2024/janeiro2024.md
+      - Outubro: programacao2024/outubro2024.md
 
