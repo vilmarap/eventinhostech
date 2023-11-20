@@ -1,0 +1,4 @@
+| **Evento&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**               | **Link**                                                | **Data e Local**
+| ----------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| KCD Brasil       | [Mais informações](https://community.cncf.io/kcd-brasil/) | 23 de Fevereiro / Online | 
+| KCD Brasil       | [Mais informações](https://community.cncf.io/kcd-brasil/) | 24 de Fevereiro / Presencial / Natura, NASP: Av. Alexandre Colares, 1188, Parque Anhanguera, São Paulo - SP |

@@ -9,8 +9,13 @@
 | Devops Days Belém    | [Mais informações](https://devopsdays.org/events/2023-belem/welcome/) |  11 de Novembro / Presencial / Av. Alcindo Cacela, 287 - Umarizal, Belém - PA  |
 | Devops days Florianópolis    | [Mais informações](https://devopsdays.org/events/2023-florianopolis/welcome/) |  11 de Novembro / Presencial / ACATE - Centro de Inovação - Rodovia SC 401, 4100 - Km4 - Saco Grande, Florianópolis - SC  |
 | PGDay ES    | [Mais informações](https://www.sympla.com.br/evento/pgday-es-2023/2207304) |  18 de Novembro / Presencial / IFES Rua Barão de Mauá, 30, Auditório, Jucutuquara, Vitória - ES  |
+| AWS: Ajustando LLMs com instruction fine-tuning    | [Mais informações](https://www.youtube.com/watch?v=pD7ol5xDGm8) | 21 de Novembro / Online |
+| Vórtx + Microsoft: Lançamento do .NET 8    | [Mais informações](https://www.meetup.com/pt-BR/meetop/events/296705822/) | 21 de Novembro / Presencial /  Rua Gilberto Sabino, 215, São Paulo - SP  |
+| WoMakersCode: Shift Left e a atuação do QA em um time ágil    | [Mais informações](https://www.meetup.com/womakerscode/events/297379545/) | 23 de Novembro / Online |
+| LinuxTips: Aprender Inteligência Artificial Como DEV DESCOMPLICADO    | [Mais informações](https://www.youtube.com/watch?v=e1EYbQ-JjTE) | 23 de Novembro / Online |
 | Canindé Campus Day    | [Mais informações](https://brasil.campus-party.org/campus-day-caninde-de-sao-francisco/) | 24 de Novembro / Presencial / Arena Diamante Negro, Canindé de São Francisco - SE  |
+| Cloud Native São Paulo - Meetup23    | [Mais informações](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-presents-cloud-native-sao-paulo-meetup-23-em-bradesco/) | 27 de Novembro / Presencial /  Bradesco - Rua da Consolação, 2302 - Consolação, São Paulo - SP  |
 | Nimble Evolution Experience    | [Mais informações](https://www.sympla.com.br/evento/nimble-evolution-experience-2023/2076399) |  29 de Novembro / Presencial / Bourbon Convention - Avenida Ibirapuera, 2927, Nimble Evolution Experience 2023, Ibirapuera, São Paulo - SP  |
 | IOT DAY Google e KORE    | [Mais informações](https://www.sympla.com.br/evento/iot-day-google-e-kore/2170244) |  29 de Novembro / Presencial / Avenida Brigadeiro Faria Lima, 3477, Espaço Laje, Itaim Bibi, São Paulo - ES  |
 | DevOps Fundamentos: Exercícios com LEGO    | [Mais informações](https://www.sympla.com.br/evento/devops-fundamentos-exercicios-com-lego/2040435) |  30 de Novembro / Presencial / Avenida Ibirapuera, 2927, Nimble Evolution Experience 2023, Ibirapuera, São Paulo - SP  |
-Proud Tech Summit 2023
+
