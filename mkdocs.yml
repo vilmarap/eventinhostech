@@ -20,6 +20,13 @@ theme:
   - content.tabs.link
   - navigation.sections
 
+extra:
+  annotate:
+    json: [.s2]
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+
 nav:
   - Início: index.md
   - Agenda:
@@ -29,5 +36,14 @@ nav:
       - Dezembro: programacao2023/dezembro2023.md
     - Programação de 2024: 
       - Janeiro: programacao2024/janeiro2024.md
+      - Fevereiro: programacao2024/fevereiro2024.md
+      - Março: programacao2024/marco2023.md
+      - Abril: programacao2024/abril2024.md
       - Maio: programacao2024/maio2024.md
+      - Junho: programacao2024/junho2024.md
+      - Julho: programacao2024/julho2024.md
+      - Agosto: programacao2024/agosto2024.md
+      - Setembro: programacao2024/setembro2024.md
       - Outubro: programacao2024/outubro2024.md
+      - Novembro: programacao2024/novembro2024.md
+      - Dezembro: programacao2024/dezembro2024.md
